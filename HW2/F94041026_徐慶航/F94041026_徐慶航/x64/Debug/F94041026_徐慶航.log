@@ -1,0 +1,6 @@
+﻿  F94041026_徐慶航.cpp
+b:\資料結構\hw2\f94041026_徐慶航\f94041026_徐慶航\f94041026_徐慶航.cpp(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'int (*)[15]'
+  在 'C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe'發生編譯器內部錯誤
+      如需詳細資訊，請選擇 Visual C++ [說明] 功能表上的 [技術支援] 命令
+  ，或開啟技術支援說明檔
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6006: "CL.exe" 以返回碼 2 結束。
