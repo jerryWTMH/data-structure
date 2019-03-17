@@ -1,0 +1,27 @@
+醫工108 F94041026 徐慶航
+作業1主要是希望我們用sollin's的方法找到minimum cost spanning tree
+sollin's概念:按照vertex大小順序來找最小cost的edge，如果下一個vertex已經有連好的edge的話就直接跳過
+，所以第一round完會得到很多的子tree。第二round會從既有的tree的邊邊端點選擇cost最小的edge，一直到以選擇的edge數=總vertex數-1。
+
+int main(){
+
+38-60行       for {fgets()}收取輸入的edge資料
+
+	      int record3[100]={ 0 };主要是記錄vertex被使用的次數，主要是協助判斷第一round是否結束，以及判斷是否為最邊邊的端點。
+	      int record4[100][2]; 主要是記錄端點分別的vertex為何   ex: 5號樹 2-4-5-6-1 ，則它的record4[5][0]==2,record4[5][1]==1。
+	      int edge_counter; 記錄總共已選取了幾個edge。
+	      int ending; while的結束條件，主要是判斷edge_counter是否到達(vertex-1)的。
+    while{
+
+		if(total_times<time){=>主要是限定一輪最多做幾次
+			if(round==0){取cost最低的edge}}=>第一round
+			else if(round!=){比第一round多考慮了record4的資料，也就是說加入了子tree端點的限制}=>第2round以後
+		if (value2 != 1000) {}=>表示成功抓到要選擇的edge，中間的判斷式主要是處理record4
+					如果一個子tree的端點要換的話，就會把舊的資料變成-52，並且把新的端點資料塞入record4的前端。(122-168是一個part 169-212是另一個part，主要是因為record4[][2]的關係不得不找兩個column的資料確保正確性)。
+
+246行	      主要是判斷edge_counter是否到達(vertex-1)。
+
+}
+251-263行     print out出答案		
+
+}
