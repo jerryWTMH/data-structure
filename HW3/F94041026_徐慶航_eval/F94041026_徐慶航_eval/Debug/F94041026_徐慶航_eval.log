@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  F94041026_徐慶航_eval.cpp
+b:\資料結構\hw3\f94041026_徐慶航_eval\f94041026_徐慶航_eval\f94041026_徐慶航_eval.cpp(18): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'deque' 的左方
+b:\資料結構\hw3\f94041026_徐慶航_eval\f94041026_徐慶航_eval\f94041026_徐慶航_eval.cpp(71): warning C4018: '<': signed/unsigned 不相符
+b:\資料結構\hw3\f94041026_徐慶航_eval\f94041026_徐慶航_eval\f94041026_徐慶航_eval.cpp(76): warning C4018: '<': signed/unsigned 不相符
+b:\資料結構\hw3\f94041026_徐慶航_eval\f94041026_徐慶航_eval\f94041026_徐慶航_eval.cpp(93): warning C4018: '<': signed/unsigned 不相符
+  F94041026_徐慶航_eval.vcxproj -> B:\資料結構\HW3\F94041026_徐慶航_eval\Debug\F94041026_徐慶航_eval.exe
+  F94041026_徐慶航_eval.vcxproj -> B:\資料結構\HW3\F94041026_徐慶航_eval\Debug\F94041026_徐慶航_eval.pdb (Full PDB)

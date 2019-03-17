@@ -1,0 +1,19 @@
+F94041026 醫工108徐慶航 
+
+void insert(){}//主要是把數字(個位數、十位數)、文字最後整合的函數。
+	char sign即為讀取到的數字或文字。
+	緊接著我用三個變數:temporary1 temporary2 temporary3來分別表示現在st1[top],st1[top-1],st1[top-2]，
+	希望能夠推斷"符號 數字 數字"的關係來確定是否要進行運算。
+	第58行的if裡面則是如果真的執行運算的話會把st1[top], st1[top-1]變為-50 (變成沒有用的東西~)。
+	第72行則是遞迴，因為有可能會連續兩次執行pop out的動作。
+	
+void calculate_ten(){}//主要是整合兩個讀取進來的個位數為十位數。
+
+int main(){
+	input[]存取fgets讀取進來的資料，position[]則是存取十位數的位置，recorder則是存取當前非空白位置，order是存取當前input2的項次。
+	for(){}//主要是判斷十位數的位置。
+	下面一個for主要是把讀取進來的東西進行分流，主要分成三類:個位數、十位數、文字，其中十位數會先丟進calculate_ten()的function去做整合
+	再呼叫insert()，其他兩者則是直接呼叫insert()。
+	
+
+}
