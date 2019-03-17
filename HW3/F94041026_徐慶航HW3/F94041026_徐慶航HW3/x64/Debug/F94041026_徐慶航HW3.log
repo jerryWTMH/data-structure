@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  F94041026_徐慶航HW3.cpp
+b:\資料結構\hw3\f94041026_徐慶航hw3\f94041026_徐慶航hw3\f94041026_徐慶航hw3.cpp(18): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'deque' 的左方
+  F94041026_徐慶航HW3.vcxproj -> B:\資料結構\HW3\F94041026_徐慶航HW3\x64\Debug\F94041026_徐慶航HW3.exe
+  F94041026_徐慶航HW3.vcxproj -> B:\資料結構\HW3\F94041026_徐慶航HW3\x64\Debug\F94041026_徐慶航HW3.pdb (Full PDB)

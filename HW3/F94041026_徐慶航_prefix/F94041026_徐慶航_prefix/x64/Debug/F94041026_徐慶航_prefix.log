@@ -1,0 +1,4 @@
+﻿  F94041026_徐慶航_prefix.cpp
+b:\資料結構\hw3\f94041026_徐慶航_prefix\f94041026_徐慶航_prefix\f94041026_徐慶航_prefix.cpp(43): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  F94041026_徐慶航_prefix.vcxproj -> B:\資料結構\HW3\F94041026_徐慶航_prefix\x64\Debug\F94041026_徐慶航_prefix.exe
+  F94041026_徐慶航_prefix.vcxproj -> B:\資料結構\HW3\F94041026_徐慶航_prefix\x64\Debug\F94041026_徐慶航_prefix.pdb (Full PDB)

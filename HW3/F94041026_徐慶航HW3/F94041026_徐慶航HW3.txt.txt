@@ -1,0 +1,17 @@
+F94041026 醫工108徐慶航
+總共有五個動作: push_front, push_back, pop_front, pop_back, show
+所以在main外面寫了五個動作的function
+
+int main(){
+	for(int m = 0; m < 50;m++){ //主要是限定instruction不要超過50個。
+		for(){}//計算第幾個鍵是空白鍵並把位置存在position裡面。
+	}
+	然後有個for去讀取空白鍵後面的數字，而if的判斷目的是確保char轉成int時為數字。
+	接著再一個for去讀取空白鍵前面的文字部分，並把那謝文字存進word[]裡面。
+	
+	第91行的if則是對於"show","pop_front","pop_back"這些不含空白鍵的指令所用的，並透過內部的for來存取文字到word裡面。
+	
+	存完指令的文字和數字之後，緊接著是判斷為哪一個指令，所以我用了strcmp(word, move);來看讀取的文字跟指令的對應關係。
+	如果找到相對應的指令的話就直接呼叫main外面的指令function.
+	
+}
