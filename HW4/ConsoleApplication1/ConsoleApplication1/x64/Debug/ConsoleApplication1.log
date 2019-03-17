@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+b:\資料結構\hw4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(14): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'entryNode' 的左方
+b:\資料結構\hw4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'matrixNode' 的左方
+b:\資料結構\hw4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+b:\資料結構\hw4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+  ConsoleApplication1.vcxproj -> B:\資料結構\HW4\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> B:\資料結構\HW4\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb (Full PDB)

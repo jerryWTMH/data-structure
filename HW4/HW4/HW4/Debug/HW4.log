@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  HW4.cpp
+b:\資料結構\hw4\hw4\hw4\hw4.cpp(15): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'entryNode' 的左方
+b:\資料結構\hw4\hw4\hw4\hw4.cpp(21): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'matrixNode' 的左方
+b:\資料結構\hw4\hw4\hw4\hw4.cpp(31): error C2065: 'numCols': 未宣告的識別項
+b:\資料結構\hw4\hw4\hw4\hw4.cpp(32): error C2065: 'numCols': 未宣告的識別項
+b:\資料結構\hw4\hw4\hw4\hw4.cpp(36): error C2065: 'numCols': 未宣告的識別項
+b:\資料結構\hw4\hw4\hw4\hw4.cpp(67): error C2065: 'numCols': 未宣告的識別項
+b:\資料結構\hw4\hw4\hw4\hw4.cpp(49): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+b:\資料結構\hw4\hw4\hw4\hw4.cpp(86): error C2143: 語法錯誤: 遺漏 ';' (在 '}' 之前)
+b:\資料結構\hw4\hw4\hw4\hw4.cpp(85): warning C4473: 'printf' : 傳遞給格式字串的引數不足
+  b:\資料結構\hw4\hw4\hw4\hw4.cpp(85): note: 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 0 個
+  b:\資料結構\hw4\hw4\hw4\hw4.cpp(85): note: 缺少 variadic 引數 1 (其為格式字串 '%5d' 所需)

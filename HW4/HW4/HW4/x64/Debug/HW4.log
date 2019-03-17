@@ -1,0 +1,11 @@
+﻿  HW4.cpp
+b:\資料結構\hw4\hw4\hw4\hw4.cpp(15): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'entryNode' 的左方
+b:\資料結構\hw4\hw4\hw4\hw4.cpp(21): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'matrixNode' 的左方
+b:\資料結構\hw4\hw4\hw4\hw4.cpp(27): warning C4101: 'i': 未參考的區域變數
+b:\資料結構\hw4\hw4\hw4\hw4.cpp(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+b:\資料結構\hw4\hw4\hw4\hw4.cpp(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+b:\資料結構\hw4\hw4\hw4\hw4.cpp(42): warning C4101: 'i': 未參考的區域變數
+  HW4.vcxproj -> B:\資料結構\HW4\HW4\x64\Debug\HW4.exe
+  HW4.vcxproj -> B:\資料結構\HW4\HW4\x64\Debug\HW4.pdb (Full PDB)

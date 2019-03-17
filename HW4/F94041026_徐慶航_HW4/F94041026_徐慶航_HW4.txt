@@ -1,0 +1,17 @@
+F94041026 醫工徐慶航
+
+struct entryNode{}裡面是放element node的參數:row col value。
+struct matrixNode{}裡面是放header node和element node一樣的部分。
+
+matrixPointer mread{
+	第28行-36行是對sparse matrix的定義所需的初始化，其中會決定初始化時numHeads要用numCols和numRows(看誰比較大)
+	然後要記得讓下一個被指向的是entry node。
+	第37-45行開始initialize。
+	第51行的判斷式是決定要不要指向下一個東西。
+	第55-70行主要是主要是連動整個matrix並指回header node
+	
+}
+mwrite(){
+	主要是接收使用者的sparse matrix資訊的輸入
+        並且把他們利用for迴圈print出來。
+}
